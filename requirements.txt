@@ -17,7 +17,7 @@ glob2==0.5
 urllib3==2.2.0
 pytz==2024.1
 chardet==5.2.0 
-psycopg2-binary==2.9.9
+psycopg2-binary==2.9.10
 PyMuPDF
 pytest
 
